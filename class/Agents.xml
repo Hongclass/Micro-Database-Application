@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Agents.xsd" generated="2012-07-11T18:57:28">
+<Agents>
+<ID>1</ID>
+<FirstName>Juan</FirstName>
+<LastName>Rosario</LastName>
+<HomePhone>201-228-9999</HomePhone>
+<Title>President</Title>
+<CellPhone>201-224-0000</CellPhone>
+<web_info>rosario@abc.net#mailto:rosario@abc.net#</web_info>
+</Agents>
+<Agents>
+<ID>2</ID>
+<FirstName>Kia</FirstName>
+<LastName>Hart</LastName>
+<HomePhone>215-222-9999</HomePhone>
+<Title>Senior Age</Title>
+<CellPhone>215-224-0001</CellPhone>
+<web_info>www.hart.org#http://www.hart.org#</web_info>
+</Agents>
+<Agents>
+<ID>3</ID>
+<FirstName>Your_Name</FirstName>
+<LastName>Your_Name</LastName>
+<HomePhone>610-226-9999</HomePhone>
+<Title>Agent</Title>
+<CellPhone>610-224-0022</CellPhone>
+<web_info>Blue Print#Chapter08\a08c1customers.xlsx##click to view customer list</web_info>
+</Agents>
+<Agents>
+<ID>4</ID>
+<FirstName>Ko-Yun</FirstName>
+<LastName>Yang</LastName>
+<HomePhone>609-221-9999</HomePhone>
+<Title>Agent</Title>
+<CellPhone>609-224-0003</CellPhone>
+</Agents>
+<Agents>
+<ID>5</ID>
+<FirstName>Steven</FirstName>
+<LastName>Lookabil</LastName>
+<HomePhone>610-222-0000</HomePhone>
+<Title>Agent Trai</Title>
+<CellPhone>610-224-0004</CellPhone>
+</Agents>
+<Agents>
+<ID>6</ID>
+<FirstName>Angela</FirstName>
+<LastName>Scott</LastName>
+<HomePhone>215-228-0000</HomePhone>
+<Title>Agent Trai</Title>
+<CellPhone>215-223-0005</CellPhone>
+</Agents>
+</dataroot>

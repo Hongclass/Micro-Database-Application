@@ -1,0 +1,12 @@
+CustomerID,Customer Name,Contact,E-mail Address,Address1,Address2,City,State,Zip Code,Phone,Fax,Service Start Date,Credit Rating
+101,Office Gadgets Store #23,Marty Lazanoff,mlazanoff@gadgets.net,5000 Jefferson Lane,Suite 2000,Atlanta,GA,30301,(305) 375-6442,(305) 375-6443,1/3/2012,B
+102,Office Gadgets Store #24,Bill Gutchons,billg@ws.com,1238 Walsh Drive,Suite 2202,Atlanta,GA,30301,(305) 385-4431,(305) 385-4433,1/3/2012,B
+103,Office Gadgets Store #25,Nancy Goodman,service@advantagesales.com,4215 South 81 Street,,Atlanta,GA,30301,(305) 444-5555,(305) 444-5556,1/5/2012,B
+104,Office Gadgets Store #26,Selene Silver,selene@kinzer.com,9020 N.W. 75 Street,Suite 302,Atlanta,GA,30301,(954) 753-9887,(954) 753-9888,1/6/2012,A
+105,Office Gadgets Store #27,Ashley Truber,truber@juiceassoc.net,7500 Center Lane,,Atlanta,GA,30301,(954) 753-7830,(954) 753-7831,1/6/2012,C
+106,Office Gadgets Store #28,Allison Blake,allison@allrest.com,6000 Tigertail Avenue,,Atlanta,GA,30301,(305) 446-8900,(305) 446-8901,1/10/2012,C
+107,Office Gadgets Store #29,Mel Stark,mstark@meatsinc.com,276 Brickell Avenue,Suite 1403,Atlanta,GA,30301,(305) 444-3980,(305) 444-3981,1/10/2012,A
+108,Office Gadgets Store #30,Bob Leaks,bob@3bakers.com,4508 N.W. 7 Street,,Atlanta,GA,30301,(305) 635-3454,(305) 635-3455,1/11/2012,A
+109,Office Gadgets Store #31,Luis Cartego,luis@countyhosp.com,455 Bargello Avenue,,Atlanta,GA,30301,(305) 666-4801,(305) 666-4802,1/13/2012,A
+110,Rachael's Diner,Kyle Freed,kfreed@msn.com,9522 S.W. 142 Street,,Atlanta,GA,30301,(305) 253-3908,(305) 253-3909,1/13/2012,B
+111,"Insurance Brokers, Inc.",Janet  Lipsi,janet@ibi.com,1000 Main Street,,Atlanta,GA,30301,(954) 123-9876,,1/23/2012,A
